@@ -226,7 +226,7 @@ body input, body h1, body h3, body a, body span {
   font-size: 0.9em;
 }
 #app .info .weather span {
-  color: black;
+  color: white;
 }
 #app .info .weather .weather-type {
   height: 20px;
@@ -256,7 +256,7 @@ body input, body h1, body h3, body a, body span {
   line-height: 12px;
 }
 #app .reminder span {
-  color: rgba(0, 0, 0, 0.8);
+  color: rgba(255, 255, 255, 0.8);
   font-size: 1.1em;
 }
 #app .reminder .reminder-icon {
@@ -265,7 +265,7 @@ body input, body h1, body h3, body a, body span {
 }
 #app .reminder .reminder-time {
   align-items: flex-end;
-  color: #000000;
+  color: #1e1e1e;
   font-size: 0.8em;
   height: 20px;
 }
@@ -304,7 +304,7 @@ body input, body h1, body h3, body a, body span {
   color: #ef5350;
 }
 #app #youtube-link span {
-  color: black;
+  color: white;
 }
 #app .menu-section {
   margin-top: 60px;
@@ -321,7 +321,7 @@ body input, body h1, body h3, body a, body span {
   font-size: 1em;
 }
 #app .menu-section .menu-section-title .menu-section-title-text {
-  color: rgba(0, 0, 0, 0.8);
+  color: rgba(255, 255, 255, 0.8);
   font-size: 1.25em;
 }
 #app .menu-section .menu-section-content {
@@ -369,7 +369,7 @@ body input, body h1, body h3, body a, body span {
   font-size: 1.5em;
 }
 #app #restaurants-section .menu-section-content .restaurant-card .restaurant-card-content .restaurant-card-content-items .restaurant-card-desc {
-  color: #000000;
+  color: #42a5f5;
   font-size: 0.9em;
 }
 #app #weather-section .menu-section-content {
@@ -383,7 +383,7 @@ body input, body h1, body h3, body a, body span {
   gap: 1em;
 }
 #app #tools-section .menu-section-content .tool-card {
-  background-color: #000000;
+  background-color: #1e1e1e;
   border-radius: 10px;
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
   cursor: pointer;
@@ -566,8 +566,8 @@ body input, body h1, body h3, body a, body span {
 }
 #app #app-pin-wrapper #app-pin .app-pin-digit {
   align-items: center;
-  background-color: rgba(0, 0, 0, 0.05);
-  border: 1px solid rgba(0, 0, 0, 0.2);
+  background-color: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.2);
   border-radius: 10px;
   box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.06);
   display: inline-flex;
